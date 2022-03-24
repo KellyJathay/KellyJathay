@@ -5,7 +5,7 @@
 
 ## I'm Kelly Jathay!
 
-:computer: I'm Quality Assurance Engineer!
+:computer: I'm Software Quality Analyst!
 
 :house_with_garden: I’m from Brazil.
 
